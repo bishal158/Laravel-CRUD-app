@@ -27,7 +27,7 @@
         <div class="row d-flex justify-content-center align-items-center mt-5 p-3">
             <div class="col-md-12">
                 <div class="container p-3 w-75 shadow rounded-2" style="border: 1px solid white">
-                    <form method="POST" action="/products/store" multiple="">
+                    <form method="POST" action="/products/store" enctype="multipart/form-data">
                         @csrf
                         <div class="mb-3">
                             <label for="product_name" class="form-label">Product Name</label>
