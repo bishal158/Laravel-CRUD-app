@@ -8,7 +8,7 @@ It just a practice project.To understand:
   
 In this project we can add new product and update existing product or delete the product. And see all the product in table.
 
-#Project Screenshots
+# Project Screenshots
 
 ![1](https://github.com/bishal158/Laravel-CRUD-app/assets/67275108/fa89140a-9860-4b7d-b6b6-200f0f2ed1e7)![10](https://github.com/bishal158/Laravel-CRUD-app/assets/67275108/f87395f5-2278-4263-b00b-e56e7286254b)
 ![8](https://github.com/bishal158/Laravel-CRUD-app/assets/67275108/3b34bd84-29ef-4f62-b6cf-0055c2122fcf)
@@ -20,7 +20,7 @@ In this project we can add new product and update existing product or delete the
 ![2](https://github.com/bishal158/Laravel-CRUD-app/assets/67275108/e6153a67-9549-4255-be68-6170eb694100)
 ![11](https://github.com/bishal158/Laravel-CRUD-app/assets/67275108/f07c6af6-f80d-4c94-bbf8-f3afde743429)
 
-#Project Video
+# Project Video
 
 https://github.com/bishal158/Laravel-CRUD-app/assets/67275108/01c46749-15ac-42a2-b15e-4f2970fa8119
 
